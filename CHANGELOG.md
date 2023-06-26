@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning].
 
 - /
 
-## [1.0.0] - yyyy-mm-dd
+## [1.0.0] - 2023-06-26
 
 - initial release
 
